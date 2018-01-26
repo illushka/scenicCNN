@@ -45,8 +45,6 @@ last_num = int(sys.argv[3]) # comment for test
 
 
 if run_azure:
-    test_data = "azure_test.txt"
-
     caffe_root = "where is caffe?"
     code_folder = "where is code?"
     folder = "/home/chanuki/storage_disk/geograph_img/"
@@ -60,7 +58,6 @@ if run_azure:
 
 
 else:
-    test_data = "test.txt"
     caffe_root = "where is caffe?"
     code_folder = "where is code?"
     folder = code_folder + "geograph_img/"
