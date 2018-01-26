@@ -91,7 +91,7 @@ geograph_data["Predicted_Score"] = ""
 #####################################################################################
 
 
-model_def = code_folder + "results/transfer_learning/"+ model_folder +"testing_places.prototxt"
+model_def = code_folder + "results/transfer_learning/"+ model_folder +"scenic_CNN.prototxt"
 model_weights = code_folder + "results/transfer_learning/" + model_folder + "weights_" +model_name + ".caffemodel"
 
 labels_file = caffe_root + 'models/places365/IO_places365.csv'
