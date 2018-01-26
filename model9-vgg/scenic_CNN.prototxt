@@ -1,4 +1,4 @@
-name: "VGG-Places365"
+name: "VGG-Places365-ScenicCNN"
 input: "data"
 input_dim: 10
 input_dim: 3
