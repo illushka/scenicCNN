@@ -1,7 +1,8 @@
 
 ####################################################################################
 # Code for using Scenic CNN to predict the scenicness of outdoor images on Geograph http://www.geograph.org.uk/
-# Main code written  by Chanuki Seresinhe c.seresinhe@warwick.ac.uk
+# Code by Chanuki Seresinhe c.seresinhe@warwick.ac.uk
+# Email Chanuki Seresinhe to get access to Scenic CNN Caffe Model
 # Some code snippets have been taken from from http://nbviewer.jupyter.org/github/BVLC/caffe/blob/master/examples/00-classification.ipynb
 # Paper Reference:
 # Seresinhe, C. I., Preis, T., & Moat, H. S. (2017). Using deep learning to quantify the beauty of outdoor places. Royal Society Open Science, 4, 170170.
